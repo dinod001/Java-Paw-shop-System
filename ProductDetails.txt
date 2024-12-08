@@ -1,0 +1,19 @@
+1:Rubber Chew Ball:Pet Toys:800.0:120
+2:Feather Wand Toy:Pet Toys:500.0:200
+3:Squeaky Plush :Pet Toys:600.0:150
+4:No-Pull Dog :Harnesses:1900.0:75
+5:Reflective Cat :Harnesses:1500.0:60
+6:Padded Dog :Harnesses:2400.0:100
+7:Large Metal Dog Crate:Cages:7900.0:45
+8:Small Animal Cage:Cages:4000.0:100
+9:Collapsible Travel Crate:Cages:4900.0:70
+10:Deshedding Brush:Grooming Products:1200.0:150
+11:Pet Nail Clippers:Grooming Products:990.0:200
+12:Pet Shampoo:Grooming Products:1150.0:120
+13:Leather Dog Collar:Collars:1500.0:80
+14:Reflective Nylon Collar:Collars:900.0:200
+15:Adjustable LED Dog Collar:Collars:1200.0:60
+16:Wet Cat Food :Food:250.0:50
+17:Dog Food:Food:500.0:75
+18:Bird Seed:Food:300.0:65
+19:Flakes:Food:150.0:40

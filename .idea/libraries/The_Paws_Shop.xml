@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="The_Paws_Shop">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/The_Paws_Shop.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
